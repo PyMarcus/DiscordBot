@@ -52,4 +52,4 @@ async def members(contexto):
 
 
 if __name__ == '__main__':
-    cliente.run('ODk0MjM3NzgwOTcwOTcxMTY2.YVnF1Q.yjANn2dpOn9HYG1BFlYR5kdqDUU')
+    cliente.run('PUT YOUR TOKEN HERE!')
